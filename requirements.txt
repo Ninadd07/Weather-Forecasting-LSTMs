@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+keras
+requests
+sys
+json
+csv
+pandas
+numpy
+matplotlib
+os
+pathlib
+seaborn
